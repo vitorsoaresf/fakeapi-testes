@@ -44,7 +44,7 @@
     },
     {
       "id": 7,
-	    "nome": "Hambúrguer de frango",
+      "nome": "Hambúrguer de frango",
       "descricao": "Pão, bife de hambúrguer 90g de frango, salada e batata.",
       "preco": 9.5,
       "categoria_id": 1
